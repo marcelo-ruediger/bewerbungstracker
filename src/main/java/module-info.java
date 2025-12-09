@@ -4,6 +4,6 @@ module com.bewerbungstracker.bewerbungstracker_javafx {
 
     requires org.controlsfx.controls;
 
-    opens com.bewerbungstracker.bewerbungstracker_javafx to javafx.fxml;
-    exports com.bewerbungstracker.bewerbungstracker_javafx;
+    opens com.bewerbungstracker to javafx.fxml;
+    exports com.bewerbungstracker;
 }

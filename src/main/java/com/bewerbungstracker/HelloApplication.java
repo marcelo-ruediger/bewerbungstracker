@@ -1,4 +1,4 @@
-package com.bewerbungstracker.bewerbungstracker_javafx;
+package com.bewerbungstracker;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

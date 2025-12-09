@@ -1,4 +1,4 @@
-package com.bewerbungstracker.bewerbungstracker_javafx;
+package com.bewerbungstracker;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -65,7 +65,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.bewerbungstracker.bewerbungstracker_javafx/com.bewerbungstracker.bewerbungstracker_javafx.HelloApplication
+                                com.bewerbungstracker/com.bewerbungstracker.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
